@@ -2,4 +2,4 @@
 
 Local >> Remote
 
-Working Dir >> Stage >> Local Repository >> Commit >>
+Working Dir >> Stage >> Local Repository >> Commit >> Push >> remote repository
